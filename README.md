@@ -1,14 +1,8 @@
-# ABC-Superstore-Sales-Performance-Overview
+# ABC Superstore Sales Performance Overview
 
-# 🦄 Maven Unicorn Challenge
+## 📚 Background About the Data
 
-## 📚 About Data
-
-Private companies with a valuation over $1 billion as of March 2022, including each company's current valuation, funding, country of origin, industry, select investors, and the years they were founded and became unicorns.
-
-This dataset contains a csv table with 1,074 records, one for each company.
-
-#mavenunicornchallenge
+This Superstore dataset was taken from Tableau's very own sample datasets. It's pretty thorough containing data on sales, orders, products, returns, managers, locations, and more. 
 
 ## 💡 Highlights
 
@@ -34,7 +28,7 @@ Conducted simple data wrangling and data cleaning:
 
 Produced a 1-pager dashboard using Tableau.
 
-Tableau: [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes)
+Tableau: [Link](https://public.tableau.com/app/profile/david6301/viz/ABCSuperstorePerformanceDashboard/Overview)
 
 ![Unicorns-2](https://user-images.githubusercontent.com/81607668/164443885-986bf154-9884-4312-b7cd-a1e128ee24b2.png)
 
