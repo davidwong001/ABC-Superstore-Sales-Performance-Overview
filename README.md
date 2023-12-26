@@ -11,20 +11,17 @@ This Superstore dataset thoroughly contains data on sales, orders, products, ret
 - Note: Analysis was written based on data on September 10, 2023. Reflecting on this, I should've used the last day of a quarter instead. 
 - Sales/profits are up even though the number of orders is down. I suspect we sold products with higher margins.
 - The Western/Eastern regions have risen in sales, which led to a net positive, despite the other 2 regions underperforming.
-- 
+- The number of returns has gone up slightly at 4%.
+- Following historical trends, we should expect to see a jump in sales in Q4 as that is when our customers make the most purchases.
 
 ## ✏️ Data Cleaning
 
 Tableau's Superstore dataset looked ready to use. I decided to use the data without any modifications, as it was perfect for what I needed to create a dashboard.
 
-## 📊 Visualization
+## 📊 Analysis and Dashboard
 
-Produced a 1-pager dashboard using Tableau.
+Analysis: [Link](https://docs.google.com/presentation/d/e/2PACX-1vRANekn3s94YS-UHyk03coGZJuFGUWD8jrn55qBfQEKBXJp-IIyvcIC32n6hie-GmPRUGKTbBEedKI9/pub?start=false&loop=false&delayms=3000)
 
 Tableau: [Link](https://public.tableau.com/app/profile/david6301/viz/ABCSuperstorePerformanceDashboard/Overview)
 
 ![Overview (6)](https://github.com/davidwong001/ABC-Superstore-Sales-Performance-Overview/assets/146798360/6d7f3e47-7cb4-4d50-80d9-ea690378723a)
-
-## 📊 Analysis
-
-Google Slides: [Link](https://docs.google.com/presentation/d/e/2PACX-1vRANekn3s94YS-UHyk03coGZJuFGUWD8jrn55qBfQEKBXJp-IIyvcIC32n6hie-GmPRUGKTbBEedKI9/pub?start=false&loop=false&delayms=3000)
