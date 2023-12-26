@@ -2,21 +2,20 @@
 
 ## 📚 Background About the Project and Data
 
-My goal was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. On top of that, I wanted to perform my own analysis on the business's performance using the dashboard itself.
+My goal was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. On top of that, I wanted to analyze the business's performance using the dashboard itself.
 
-This Superstore dataset is pretty thorough containing data on sales, orders, products, returns, managers, locations, and more. 
+This Superstore dataset thoroughly contains data on sales, orders, products, returns, managers, locations, and more. 
 
 ## 💡 Highlights
 
-- Valuations in year 2021 makes up one-third of total valuations since the beginning of time.
-- Unicorns in United States and China outperformed the rest of the world with 72% overall valuations.
-- Bytedance, SpaceX, SHEIN and Stripe are the most successful unicorns which performed better than an average unicorn at $71 billion.
-- Unicorns in AI, E-Commerce, Fintech and Edtech industries are valued higher than the average unicorn at $3.5 billion. 
-- A unicorn takes an average of 7 years to attain valuation of $1billion and become a unicorn.
+- Note: Analysis was written based on data on September 10, 2023. Reflecting on this, I should've used the last day of a quarter instead. 
+- Sales/profits are up even though the number of orders is down. I suspect we sold products with higher margins.
+- The Western/Eastern regions have risen in sales, which led to a net positive, despite the other 2 regions underperforming.
+- 
 
 ## ✏️ Data Cleaning
 
-Tableau's Superstore dataset looked ready to use in my opinion. I decided to use the data without any modifications, as it was perfect for what I needed to create a dashboard.
+Tableau's Superstore dataset looked ready to use. I decided to use the data without any modifications, as it was perfect for what I needed to create a dashboard.
 
 ## 📊 Visualization
 
