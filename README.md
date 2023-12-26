@@ -1,10 +1,10 @@
 # ABC Superstore Sales Performance Overview
 
-## 📚 Background About the Data and Project
+## 📚 Background About the Project and Data
 
-This Superstore dataset was taken from Tableau's very own sample datasets. It's pretty thorough containing data on sales, orders, products, returns, managers, locations, and more. 
+My goal was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. On top of that, I wanted to perform my own analysis on the business's performance using the dashboard itself.
 
-My goal was to create a Tableau dashboard using this data as a way for stakeholders to monitor the business's performance. 
+This Superstore dataset is pretty thorough containing data on sales, orders, products, returns, managers, locations, and more. 
 
 ## 💡 Highlights
 
@@ -25,3 +25,7 @@ Produced a 1-pager dashboard using Tableau.
 Tableau: [Link](https://public.tableau.com/app/profile/david6301/viz/ABCSuperstorePerformanceDashboard/Overview)
 
 ![Overview (6)](https://github.com/davidwong001/ABC-Superstore-Sales-Performance-Overview/assets/146798360/6d7f3e47-7cb4-4d50-80d9-ea690378723a)
+
+## 📊 Analysis
+
+Google Slides: [Link](https://docs.google.com/presentation/d/e/2PACX-1vRANekn3s94YS-UHyk03coGZJuFGUWD8jrn55qBfQEKBXJp-IIyvcIC32n6hie-GmPRUGKTbBEedKI9/pub?start=false&loop=false&delayms=3000)
