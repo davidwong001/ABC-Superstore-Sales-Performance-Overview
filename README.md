@@ -4,7 +4,7 @@
 
 My goal was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. On top of that, I wanted to analyze the business's performance using the dashboard itself.
 
-This Superstore dataset thoroughly contains data on sales, orders, products, returns, managers, locations, and more. 
+This Superstore dataset thoroughly contains data on sales, orders, products, returns, managers, locations, and more. The data itself looked ready to use. I decided to use the data without any modifications, as it was perfect for what I needed to create a dashboard.
 
 ## 💡 Highlights
 
@@ -13,10 +13,6 @@ This Superstore dataset thoroughly contains data on sales, orders, products, ret
 - The Western/Eastern regions have risen in sales, which led to a net positive, despite the other 2 regions underperforming.
 - The number of returns has gone up slightly at 4%.
 - Following historical trends, we should expect to see a jump in sales in Q4 as that is when our customers make the most purchases.
-
-## ✏️ Data Cleaning
-
-Tableau's Superstore dataset looked ready to use. I decided to use the data without any modifications, as it was perfect for what I needed to create a dashboard.
 
 ## 📊 Analysis and Dashboard
 
